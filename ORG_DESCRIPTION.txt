@@ -1,0 +1,1 @@
+Semantic gateway between Microsoft Teams and AWS business databases. Open-Core: architecture public, enterprise governance private.
